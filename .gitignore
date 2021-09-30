@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata/
+.idea/
+Carthage/Checkouts/
+Carthage/Build/
+sonar-reports/
+.scannerwork/
+DerivedData/
+build/
+docs/undocumented.json
